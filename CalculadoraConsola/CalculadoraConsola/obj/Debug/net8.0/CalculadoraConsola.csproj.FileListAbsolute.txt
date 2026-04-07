@@ -1,0 +1,14 @@
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.exe
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.deps.json
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\bin\Debug\net8.0\CalculadoraConsola.pdb
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\refint\CalculadoraConsola.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.pdb
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\CalculadoraConsola.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\CalculadoraConsola\CalculadoraConsola\obj\Debug\net8.0\ref\CalculadoraConsola.dll
