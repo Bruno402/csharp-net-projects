@@ -1,0 +1,14 @@
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.exe
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.deps.json
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\bin\Debug\net8.0\GestorNotas.pdb
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\refint\GestorNotas.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.pdb
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\GestorNotas.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\GestorNotas\GestorNotas\obj\Debug\net8.0\ref\GestorNotas.dll
