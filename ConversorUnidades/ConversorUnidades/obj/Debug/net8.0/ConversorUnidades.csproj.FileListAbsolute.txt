@@ -1,0 +1,14 @@
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\bin\Debug\net8.0\ConversorUnidades.exe
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\bin\Debug\net8.0\ConversorUnidades.deps.json
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\bin\Debug\net8.0\ConversorUnidades.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\bin\Debug\net8.0\ConversorUnidades.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\bin\Debug\net8.0\ConversorUnidades.pdb
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\ConversorUnidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\ConversorUnidades.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\ConversorUnidades.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\ConversorUnidades.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\ConversorUnidades.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\refint\ConversorUnidades.dll
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\ConversorUnidades.pdb
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\ConversorUnidades.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Documentos\ProyectosC#\ConversorUnidades\ConversorUnidades\obj\Debug\net8.0\ref\ConversorUnidades.dll
