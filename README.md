@@ -13,5 +13,5 @@ Este repositorio contiene una colección de proyectos pequeños desarrollados en
 - [ConversorUnidades](./ConversorUnidades)  
   Conversor de temperatura, longitud y peso.
 
-- [MiniApiRest](./ApiRestMini)  
+- [ApiRestMini](./ApiRestMini)  
   API REST básica en ASP.NET Core para manejar productos.
